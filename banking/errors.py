@@ -1,0 +1,6 @@
+class InsufficientFunds(Exception):
+    ....
+
+class AccountNotFound(Exception):
+    ....
+
